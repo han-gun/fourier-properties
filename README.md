@@ -17,9 +17,13 @@ Fourier properties
 ### 4) 1D Convolution theorem
         (f*g)(x) <== Fourier Transform ==> FFT(f(x)) .* FFT(g(x))
         
-            where, * is convolution operator and .* is element-wise multiplication.
+where, 
+
+        * is convolution operator and .* is element-wise multiplication.
 
 ### 5) 2D Convolution theorem
         (f*g)(x) <== Fourier Transform ==> FFT(f(x)) .* FFT(g(x))
 
-            where, * is convolution operator and .* is element-wise multiplication.
+where, 
+
+        * is convolution operator and .* is element-wise multiplication.
